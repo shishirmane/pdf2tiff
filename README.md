@@ -8,7 +8,7 @@ It use JAI-ImageIO plugin to render Tiff Content.
 You can control the DPI of the output TIFF.
 
 Usage:
-1. PDF2TIFF_Converter.convert("<Input PDF Path>", "<Output TIFF Path>");
-2. 1. PDF2TIFF_Converter.convert("<Input PDF Path>", "<Output TIFF Path>", <DPI>);
+1. PDF2TIFF_Converter.convert("**Input PDF Path**", "**Output TIFF Path**");
+2. PDF2TIFF_Converter.convert("**Input PDF Path**", "**Output TIFF Path**", **dpi_count**);
 
 Defaults to 300dpi
